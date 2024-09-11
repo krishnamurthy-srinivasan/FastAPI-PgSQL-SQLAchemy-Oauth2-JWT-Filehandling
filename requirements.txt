@@ -1,0 +1,6 @@
+fastapi
+psycopg2
+SQLAlchemy
+uvicorn
+python-jose
+passlib
